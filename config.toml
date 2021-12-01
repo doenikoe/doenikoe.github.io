@@ -1,0 +1,44 @@
+baseURL = 'https://doenikoe.github.io/rumbia'
+languageCode = 'id=id'
+title = 'Rumbia ID | Afrimadoni Dinata`s Personal Website'
+theme = 'split'
+copyright = "&copy;2021 @doenikoe"
+
+[params]
+    description = "Personal Website of Afrimadoni Dinata."
+    [params.visual.image]
+      enable = true
+      file = "/images/profile.jpeg"
+      position = "center center"
+
+    [[params.links]]
+      [params.links.list1]
+        heading = "Menu"
+
+        [[params.links.list1.link]]
+          text = "Home"
+          url = "/"
+
+        [[params.links.list1.link]]
+          text = "About"
+          url = "/about"
+
+    [[params.links]]
+      [params.links.list2]
+        heading = "Read"
+
+        [[params.links.list2.link]]
+          text = "Blog"
+          url = "https://blog.rumbia.id"
+
+        [[params.links.list2.link]]
+          text = "Medium"
+          url = "https://medium.com/@afrimadonidinata"
+
+    [[params.links]]
+      [params.links.list3]
+        heading = "Connect"
+
+      [[params.links.list3.link]]
+        text = "LinkedIn"
+        url = "#"
