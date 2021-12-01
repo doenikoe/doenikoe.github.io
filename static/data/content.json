@@ -2,7 +2,7 @@
     {
       "title": "Kelok 44. Agam, West Sumatera",
       "tagline": "Steepy. Winding. Beautiful.",
-      "desc": "Regular street with 44 (fourty four) curves. Located in high land and surrounded by rice fields.",
+      "desc": "Regular street with 44 (fourty four) curves. Located in high land and very slipy on rainy season.",
       "img": "images/kelok44.jpeg"
     },
     {
@@ -16,5 +16,11 @@
         "tagline": "Cliff. Iconic. Wonderful",
         "desc": "Thirty five (35) meters high, you can see Monkeys hanging around",
         "img": "images/lembahanai.jpeg"
+    },
+    {
+      "title": "Maninjau Lake. Agam, West Sumatera",
+      "tagline": "Volcanic. Living. Legend.",
+      "desc": "Well known by the tragic event of Bujang Sembilan tale, this lake is very popular",
+      "img": "images/maninjau.jpeg"
     }
   ]
