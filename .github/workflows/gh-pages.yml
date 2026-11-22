@@ -31,8 +31,8 @@ jobs:
       - name: Prepare static artifact
         run: |
           mkdir _site
-          cp index.html *.html _site/
-          cp -R assets forms _site/
+          cp index.html CNAME _site/
+          cp -R assets _site/
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
